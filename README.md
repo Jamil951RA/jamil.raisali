@@ -1,182 +1,393 @@
 # PORTFOLIO
 # Hi, I'm Jamil RAIS-ALI 👋
 
-### Data Analyst | Economy, Data & Sustainability | Python • SQL • R • Power BI
+### Economics • Data Analytics • Sustainability / ESG
 
-I turn **data into clear insights and actionable business decisions**.
+🎓 MSc in **Economy, Data & Sustainability**  
+📍 Barcelona Metropolitan Area  
+🔎 Open to **Internships (6+ months)** and **Full-Time Permanent Opportunities**  
+📅 Available from **January 2027**
 
-Currently completing an **MSc in Economy, Data & Sustainability**, I combine data analytics, economics and business understanding with hands-on experience in demanding operational environments.
-
-My background is a little different from the traditional data path — and that is one of my strengths.
-
-I have worked in **logistics, education and hospitality**, experiences that taught me how to solve real-world problems, communicate clearly, work under pressure and understand how organisations actually operate.
-
-📍 France / Europe  
-🇪🇸 Interested in opportunities in **Barcelona and Spain**  
-💼 Looking for opportunities in **Data Analytics, Business Intelligence & Business Analysis**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jamil%20RAIS--ALI-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jamil-rais-ali-26069b1bb/)
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 MSc **Economy, Data & Sustainability**
-- 🎓 BSc **Economics & Management**
-- 📊 Interested in **Data Analytics, Business Intelligence and decision-making**
-- 🐍 Data analysis with **Python**
-- 🗄️ Data querying with **SQL**
-- 📈 Statistical analysis with **R**
-- 📊 Data visualisation with **Power BI & Excel**
-- 🌱 Strong interest in the intersection of **economics, business, data and sustainability**
-- 🧠 I enjoy transforming complex information into simple and useful insights
+I am an Economics graduate currently completing an **MSc in Economy, Data & Sustainability**, with a growing focus on the use of **data to understand economic, business and sustainability-related issues**.
+
+My academic background has allowed me to work on projects involving:
+
+- 📊 Data analysis
+- 📈 Econometrics
+- 🌱 Sustainability & ESG-related topics
+- 🏢 Business and strategic analysis
+- 🌍 Economic development
+- 🔎 Impact evaluation
+
+I am particularly interested in the intersection between **economics, data and decision-making**.
+
+Sustainability and ESG are an important part of my academic specialization and an area I am keen to explore further. However, I do not want to limit myself exclusively to ESG roles.
+
+I am open to **interesting analytical opportunities across different industries and functions**, especially where I can learn quickly, work with real-world data and contribute to business decisions.
+
+My main career interests include:
+
+**Data Analyst • Risk Analyst • ESG Analyst • Business Analyst • Sustainability Analyst**
+
+---
+
+## 🚀 Looking for Opportunities
+
+I am currently looking for my next professional opportunity starting in **January 2027**.
+
+### 📍 Location
+
+**Barcelona & surrounding area — approximately 10 km**
+
+Open to:
+
+- 🏢 On-site positions
+- 🔄 Hybrid positions
+
+I am also open to:
+
+- 🌍 **Fully remote opportunities across Europe**
+
+### 💼 Contract
+
+I am looking for:
+
+- 🎓 An **internship of at least 6 months**
+- 💼 A **full-time permanent position**
+- 🚀 Longer-term opportunities where I can develop professionally
+
+### 🏭 Industries of Interest
+
+I am particularly interested in:
+
+`Banking` • `Finance` • `Technology` • `Energy` • `Logistics` • `ESG & Sustainability`
+
+But I remain **open to other industries and interesting opportunities** where my analytical and economic background can bring value.
+
+---
+
+# 🎓 Academic Background
+
+## MSc — Economy, Data & Sustainability
+
+My Master's degree combines three areas that I believe are increasingly interconnected:
+
+### 📈 Economics
+Understanding markets, economic behaviour and the factors influencing economic development.
+
+### 📊 Data
+Using quantitative methods and data analysis to investigate economic and business questions.
+
+### 🌱 Sustainability & ESG
+Studying economic transition, sustainability challenges and the measurement of social and environmental impacts.
+
+My objective is not to specialize exclusively in sustainability.
+
+Instead, I want to use this multidisciplinary background to work on **data-driven business, economic, financial or sustainability problems**.
 
 ---
 
 # 🚀 Featured Projects
 
-## 📊 Employee Retention & Recruitment Analysis
+## 🌱 Fair Cobalt Alliance — Impact Evaluation
 
-**Quantitative study based on 128 survey responses**
+### Difference-in-Differences Analysis | Democratic Republic of Congo
 
-Analysis of the factors influencing the recruitment and retention of young professionals in small accounting firms.
+Academic econometrics project studying the potential impact of the **Fair Cobalt Alliance (FCA)** around Kamilombe in the Democratic Republic of Congo.
 
-The project explores several dimensions including:
+The study investigated two dimensions:
+
+- 🎓 Education levels among people aged 15–25
+- 💧 Household access to improved water sources
+
+Using DHS survey data from **2007, 2013 and 2023**, we implemented a **Difference-in-Differences approach** comparing areas located near and farther from Kamilombe.
+
+The project also included:
+
+- Treatment and control group construction
+- Difference-in-Differences models
+- Event-study specification
+- Parallel trend assessment
+- Robustness checks
+- Interpretation of statistical significance
+- Discussion of methodological limitations
+
+### What I learned
+
+This project gave me practical experience in:
+
+`Econometrics` • `Impact Evaluation` • `Data Interpretation` • `ESG / Social Impact` • `Causal Inference`
+
+🔗 **[View Project](YOUR_GITHUB_LINK/fair-cobalt-alliance-impact-analysis)**
+
+---
+
+## 🏙️ Growth and the City
+
+### Urbanization & Economic Growth Analysis
+
+Urban Economics project investigating the relationship between **urbanization and economic growth across countries**.
+
+Using **World Bank World Development Indicators**, we compared:
+
+- Urban population as a percentage of total population
+- GDP per capita
+- Changes in urbanization
+- Long-term economic growth
+
+The project used both:
+
+- A **2023 cross-sectional analysis**
+- A **1990–2023 growth analysis**
+
+One of the main findings was an important distinction between economic **levels** and **growth rates**:
+
+> Richer countries tend to be considerably more urbanized, while countries urbanizing faster do not necessarily experience faster economic growth.
+
+### Tools & Skills
+
+`Excel` • `World Bank Data` • `Correlation Analysis` • `Economic Analysis` • `Data Visualisation`
+
+🔗 **[View Project](YOUR_GITHUB_LINK/urbanization-economic-growth)**
+
+---
+
+## 📊 Leisure Spending & Happiness in Europe
+
+### Econometric Analysis of 27 European Union Countries
+
+Econometrics project investigating the relationship between **household spending on leisure and culture and national happiness levels**.
+
+The study covered the **27 European Union countries** using data from:
+
+- INSEE
+- World Happiness Report
+
+Several econometric specifications were tested to examine the relationship between happiness and:
+
+- Household leisure & cultural expenditure
+- GDP per capita
+- Inflation
+- Geographic location within Europe
+
+The project involved:
+
+- Descriptive statistics
+- Simple linear regression
+- Multiple regression
+- Model comparison
+- Breusch-Pagan tests
+- Interpretation of regression coefficients
+
+### Skills
+
+`Econometrics` • `Regression Analysis` • `Statistics` • `Economic Data Analysis`
+
+🔗 **[View Project](YOUR_GITHUB_LINK/happiness-leisure-econometrics)**
+
+---
+
+## 🎬 Netflix Strategic Analysis
+
+### Internal & External Business Analysis
+
+Large university management project analysing **Netflix's competitive position, business model and strategic environment**.
+
+The project covered several areas of corporate strategy, including:
+
+- Market analysis
+- Competitive environment
+- Customer demand
+- Internal resources and capabilities
+- Internationalisation
+- Technology
+- Streaming industry dynamics
+
+Several strategic frameworks were applied:
+
+`PESTEL` • `Porter's Five Forces` • `Value Chain` • `SWOT` • `TOWS`
+
+The project strengthened my ability to connect **market data, competitive information and business strategy**.
+
+🔗 **[View Project](YOUR_GITHUB_LINK/netflix-strategic-analysis)**
+
+---
+
+## 👥 Employee Recruitment & Retention Analysis
+
+### Quantitative Survey — 128 Respondents
+
+Research project analysing the factors influencing the **recruitment and retention of young professionals in small accounting firms**.
+
+The study is based on a survey of **128 respondents** and examines several dimensions including:
 
 - Compensation
 - Work-life balance
 - Management
 - Career development
 - Employee expectations
-- Retention drivers
+- Retention factors
 
-The analysis was structured around several research hypotheses and translated survey results into **practical business recommendations**.
+The results were translated into **practical recommendations for employers**.
 
-**Skills demonstrated:**  
-`Data Cleaning` `Survey Analysis` `Excel` `Data Visualisation` `Business Analysis` `Strategic Recommendations`
+### Skills
 
-🔗 **[View Project](https://github.com/YOUR_USERNAME/employee-retention-analysis)**
+`Excel` • `Survey Analysis` • `Data Interpretation` • `Business Analysis` • `Strategic Recommendations`
 
----
-
-## 🌍 Economy & Sustainability Data Analysis
-
-Exploration of economic and sustainability datasets to identify trends, relationships and meaningful indicators.
-
-The objective is to use data to better understand how economic activity interacts with environmental and sustainability challenges.
-
-**Tools:**  
-`Python` `Pandas` `R` `Data Visualisation` `Economic Analysis`
-
-🔗 **[View Project](https://github.com/YOUR_USERNAME/economy-sustainability-analysis)**
+🔗 **[View Project](YOUR_GITHUB_LINK/employee-retention-analysis)**
 
 ---
 
-## 🗄️ SQL Data Analysis
+# 🛠️ Skills & Tools
 
-SQL-based exploratory analysis focused on extracting useful business information from structured datasets.
+## Data & Analytics
 
-Includes:
+### Excel
+**Intermediate**
 
-- Data filtering
-- Aggregations
-- JOINs
-- CTEs
-- Subqueries
-- KPI calculation
-- Business-oriented queries
+Comfortable with data manipulation, analysis and spreadsheet-based projects.
 
-**Tools:**  
-`SQL` `Data Analysis` `Business Intelligence`
+### Python
+**Foundational knowledge — actively developing**
 
-🔗 **[View Project](https://github.com/YOUR_USERNAME/sql-data-analysis)**
+Currently developing my ability to use Python for data analysis and analytical workflows.
 
----
+### SQL
+**Foundational knowledge — actively developing**
 
-## 📈 Power BI Business Dashboard
+Building practical skills in querying, filtering, aggregating and analysing structured data.
 
-Interactive dashboard designed to transform raw business data into understandable KPIs and decision-support insights.
+### R
+**Foundational knowledge — actively developing**
 
-Focus areas include:
-
-- KPI monitoring
-- Trend analysis
-- Interactive filtering
-- Data modelling
-- Business recommendations
-
-**Tools:**  
-`Power BI` `DAX` `Excel` `Data Visualisation`
-
-🔗 **[View Project](https://github.com/YOUR_USERNAME/power-bi-dashboard)**
+Used in the context of statistics, economics and quantitative analysis.
 
 ---
 
-# 🛠️ Tech Stack
+## 🤖 AI-Assisted Workflows
 
-### Data Analysis
+I am comfortable using **AI tools as analytical and learning assistants** to:
 
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-Statistics-276DC3?style=for-the-badge&logo=r&logoColor=white)
+- Understand unfamiliar concepts
+- Debug code
+- Improve analytical workflows
+- Structure projects
+- Learn new tools faster
+- Explore alternative solutions
+- Document my work
 
-### Business Intelligence
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### Currently Developing
-
-`Python` • `SQL` • `R` • `Power BI` • `Data Visualisation` • `Statistics` • `Business Intelligence`
+I see AI as a tool to **accelerate learning and problem-solving while keeping human validation and critical thinking at the centre of the analysis**.
 
 ---
 
-# 💡 What I Bring
+# 🧠 What I Bring
 
-### 📊 Analytical mindset
-I enjoy breaking complex problems into measurable variables and using data to identify patterns and support decisions.
+### 📊 Economics + Data
 
-### 💼 Business understanding
-My background in economics and management allows me to look beyond the numbers and understand their business implications.
+My background allows me to approach data not only from a technical perspective, but also by understanding the **economic and business mechanisms behind the numbers**.
 
-### 🏭 Operational experience
-Working in logistics and hospitality taught me the importance of efficiency, processes, customer satisfaction and performance.
+### 🌱 Sustainability / ESG Perspective
 
-### 🎓 Communication
-My experience teaching Economics and Business Management strengthened my ability to explain complex concepts in a simple and structured way.
+Sustainability is part of my Master's specialization and I have already worked on topics involving **social impact evaluation and sustainable development**.
+
+I am interested in developing this expertise further while remaining open to broader analytical roles.
+
+### 🔄 Adaptability
+
+My professional background spans very different environments:
+
+- Hospitality
+- Education
+- Logistics
+
+These experiences taught me how to **adapt quickly, communicate with different audiences and operate effectively in demanding environments**.
+
+### 🚀 Learning Mindset
+
+My technical skills are still developing, but I am comfortable learning directly through practical projects and real-world problems.
+
+I learn quickly when working toward a concrete objective and know how to use modern tools, documentation and AI-assisted workflows to become autonomous.
 
 ---
 
-# 🎯 What I'm Looking For
+# 🎯 Career Interests
 
-I am particularly interested in opportunities such as:
+My current priority roles are:
 
-**Data Analyst • Junior Data Analyst • Business Analyst • BI Analyst • Operations Analyst • Junior Business Intelligence Consultant**
+### 📊 Data Analyst
+Transforming data into insights that support operational and strategic decisions.
 
-I am especially interested in projects where data can help:
+### 🏦 Risk Analyst
+Using quantitative and economic information to identify, understand and monitor risk.
 
-> improve processes • understand customers • measure performance • identify opportunities • support strategic decisions
+### 🌱 ESG Analyst
+Working with environmental, social and governance information to support analysis and decision-making.
+
+### 💼 Business Analyst
+Connecting business problems with data, processes and actionable recommendations.
+
+### 🌍 Sustainability Analyst
+Analysing sustainability-related challenges, indicators and business impacts.
 
 ---
 
-# 🌍 Languages
+# 🌍 Areas I Would Like to Explore
 
-🇫🇷 **French** — Native  
-🇬🇧 **English** — Professional working knowledge  
-🇪🇸 **Spanish** — Currently developing
+I am particularly interested in applications of data in:
+
+- Banking
+- Financial Services
+- Risk
+- Technology
+- Energy
+- Logistics & Supply Chain
+- Sustainability
+- ESG
+- Economic Analysis
+
+I am also open to opportunities outside these areas when the **project, company or learning opportunity is compelling**.
+
+---
+
+# 📚 Current Development
+
+I am continuously improving my analytical toolkit.
+
+Currently developing:
+
+`Python` • `SQL` • `R` • `Data Analysis` • `Econometrics`
+
+Next steps:
+
+`Power BI` • `Advanced Excel` • `Data Visualisation` • `Applied Machine Learning`
 
 ---
 
 # 📫 Let's Connect
 
-I'm always interested in discussing **data, analytics, economics, business and new opportunities**.
+I am currently open to opportunities starting in **January 2027**.
 
-📧 **Email:** [raisali.jamil@gmail.com](mailto:raisali.jamil@gmail.com)
+📍 **Barcelona Metropolitan Area**  
+🌍 **Remote opportunities across Europe**
 
-💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+💼 Internship **6+ months** or **Full-Time Permanent Position**
 
-💻 **GitHub:** [Explore my projects](https://github.com/YOUR_USERNAME)
+### Interested in my profile?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jamil-rais-ali-26069b1bb/)
+
+📧 **Email:** raisali.jamil@gmail.com
+
+💻 **GitHub:** Coming soon
 
 ---
 
-### 📊 Data is only valuable when it helps us make a better decision.
+> **Economics gives me the framework. Data gives me the evidence. Adaptability allows me to apply both to new problems.**
 
 Thanks for visiting my profile! 🚀
