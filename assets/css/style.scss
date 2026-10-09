@@ -171,19 +171,40 @@ section h1 {
 }
 
 
-/* Section titles */
+/* Centered section titles */
 
 section h2 {
-  margin-top: 45px;
-  margin-bottom: 20px;
+  margin-top: 50px;
+  margin-bottom: 28px;
 
-  padding-bottom: 10px;
-
-  font-size: 25px;
+  font-size: 26px;
+  font-weight: 700;
 
   color: var(--blue-dark);
 
-  border-bottom: 2px solid #eeeaf8;
+  text-align: center;
+
+  border-bottom: none;
+}
+
+
+section h2::after {
+  content: "";
+
+  display: block;
+
+  width: 70px;
+  height: 3px;
+
+  margin: 10px auto 0;
+
+  border-radius: 3px;
+
+  background: linear-gradient(
+    90deg,
+    var(--blue),
+    var(--mauve)
+  );
 }
 
 
@@ -242,6 +263,7 @@ a {
 
 a:hover {
   color: var(--mauve);
+
   text-decoration: none;
 }
 
