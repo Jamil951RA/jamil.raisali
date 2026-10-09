@@ -98,7 +98,7 @@ Variables included:
 
 `Econometrics` `Regression` `Statistics` `Economic Analysis`
 
-[View project](YOUR_PROJECT_LINK)
+[View project](https://github.com/jraisali/happiness-europe-econometrics)
 
 ---
 
