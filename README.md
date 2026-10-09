@@ -115,7 +115,7 @@ Frameworks used:
 
 `Business Analysis` `Strategy` `Market Analysis`
 
-[View project](YOUR_PROJECT_LINK)
+[View project](https://github.com/jraisali/netflix-strategic-analysis)
 
 ---
 
