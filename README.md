@@ -66,7 +66,7 @@ Econometric analysis of the impact of the **Fair Cobalt Alliance** around Kamilo
 
 `Econometrics` `Impact Evaluation` `ESG` `Data Analysis`
 
-[View project](YOUR_PROJECT_LINK)
+[View project](https://github.com/jraisali/fair-cobalt-alliance-impact-analysis)
 
 ---
 
